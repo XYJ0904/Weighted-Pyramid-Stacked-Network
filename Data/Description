@@ -1,0 +1,8 @@
+data_MRFDBF_final.mat: three-story damped frame
+data_OP_1_final.mat: Giuffré-Menegotto-Pinto material cases with different characteristics, No.1 (OpenSEES steel 02)
+data_OP_2_final.mat: Giuffré-Menegotto-Pinto material cases with different characteristics, No.2 (OpenSEES steel 02)
+data_OP_3_final.mat: Giuffré-Menegotto-Pinto material cases with different characteristics, No.3 (OpenSEES steel 02)
+data_OP_4_final.mat: Giuffré-Menegotto-Pinto material cases with different characteristics, No.4 (OpenSEES steel 02)
+data_Huang_final.mat: refined brace model (without normalization)
+data_Huang_norm_final.mat: refined brace model (after normalization)
+data_BoucW_final.mat: building with Bouc-Wen hysteretic model
